@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Ribbon.qml</file>
+        <file>RibbonGroup.qml</file>
+        <file>RibbonTab.qml</file>
+        <file>arrow-down-16x16.png</file>
+        <file>arrow-up-16x16.png</file>
+    </qresource>
+</RCC>
