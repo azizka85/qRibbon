@@ -3,9 +3,7 @@ import QtQuick.Window 2.12
 import QtQuick.Controls 2.12
 import QtQuick.Dialogs 1.2
 
-ApplicationWindow {
-    property Item content: home
-
+ApplicationWindow {   
     id: mainWindow
     visible: true
     visibility: "Maximized"
